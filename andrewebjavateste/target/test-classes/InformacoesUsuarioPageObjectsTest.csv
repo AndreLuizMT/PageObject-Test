@@ -1,0 +1,3 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,login,senha,tipo,contato,mensagem,Duration(ms)
+"",luiz002,123456,Phone,+5588999998888,Your contact has been added!,2220.0
+"",luiz002,123456,E-mail,aleatorio@gmail.com,Your contact has been added!,2117.0
